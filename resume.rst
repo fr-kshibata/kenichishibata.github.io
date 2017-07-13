@@ -1,8 +1,10 @@
 Kenichi Shibata
 ===========================================
-- Cloud Native Architect/Developer
-- kenichi.shibata3123@gmail.com
-- +819083305813
+**Specialty** Cloud Native Architect/Developer
+**contact email** kenichi.shibata3123@gmail.com
+**contact no.** +819083305813
+**github** `kenichishibata <https://github.com/kenichishibata/>`
+
 
 Summary
 ==================================================================================================================
@@ -48,11 +50,27 @@ Education
 Development Tools and Skills 
 ====================================================================================================================
 
-- AWS Architect/ Full stack Javascript Engineer
-- Infrastructure: Unix, Bash Scripting, Linux, AWS Cloud, TerraformAWS
-- Project Management: Product Development, Architecture (AWS,Akamai), Code Review, Agile,
-- Build Engineering CI/CD, (Wercker, Jenkins, CodeShip, CircleCI)
-- Back End Development: PYTHON Node JS Express JS Restify. AWS Lambda Function Development, Python SciPy(Numpy, Pandas)
-- Front End Development: React JS, HTML5, CSS3, Jade, Material UI, Bootstrap, React Native
-- Databases: MongoDB, DynamoDB, MySQL
-- Architecture: AWS, Akamai
+- Main: AWS Architect Full stack Javascript/Python Engineer
+- Infrastructure: Unix, Bash Scripting, Linux, AWS Cloud, TerraformAWS, Packer, Ansible
+- Project Management: Product Development, System Architecture, Code Review, Agile (Scrum, Kanban), Converting Business Req to Technical User Stories
+- Build Engineering: CI/CD, (Gitlab CI, Wercker, Jenkins, CodeShip, CircleCI)
+- Back End Development: PYTHON, Node JS, Express JS, Restify. AWS Lambda Function Development, Python SciPy(Numpy, Pandas)
+- Front End Development: React JS, HTML5, CSS3, Jade(Pug), ExtJS, Material UI, Bootstrap, React Native
+- Databases: MongoDB, DynamoDB, MySQL, InfluxDB 
+- Architecture: Distributed Cloud Native Architecture, Chaos Engineering as Best Practice
+- Documentation: Confluence, Restructured Text, Markdown, Gitlab Pages, Github Pages, Hugo, Gollum
+- Evagelism: GRAPHQL Advocate, NodeJS Evangelist, Python Evangelist
+
++-----------------------------------------------------------------------------------------------+ 
+| Guiding Principle                                                                             |
++===============+===============================================================================+ 
+|Method/Service |    Principle                                                                  | 
++---------------+-------------------------------------------------------------------------------+   
+| SaaS          |    https://12factor.net/                                                      | 
++---------------+-------------------------------------------------------------------------------+
+| Development   | http://agilemanifesto.org/iso/en/manifesto.html                               | 
++---------------+-------------------------------------------------------------------------------+ 
+| Dev Teams     |https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code| 
++---------------+-------------------------------------------------------------------------------+           
+| Distributed Sytems     https://www.cncf.io/about/charter/                                     | 
++---------------+-------------------------------------------------------------------------------+
