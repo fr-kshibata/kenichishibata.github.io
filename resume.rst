@@ -1,9 +1,9 @@
 Kenichi Shibata
 ===========================================
-**Specialty** Cloud Native Architect/Developer
-**contact email** kenichi.shibata3123@gmail.com
-**contact no.** +819083305813
-**github** `kenichishibata <https://github.com/kenichishibata/>`
+Cloud Native Architect/Developer
+- **contact email** kenichi.shibata3123@gmail.com
+- **contact no.** +819083305813
+- **github** `kenichishibata <https://github.com/kenichishibata/>`
 
 
 Summary
@@ -62,7 +62,7 @@ Development Tools and Skills
 - Evagelism: GRAPHQL Advocate, NodeJS Evangelist, Python Evangelist
 
 +-----------------------------------------------------------------------------------------------+ 
-| Guiding Principle                                                                             |
+| Guiding Principles                                                                            |
 +===============+===============================================================================+ 
 |Method/Service |    Principle                                                                  | 
 +---------------+-------------------------------------------------------------------------------+   
@@ -72,5 +72,5 @@ Development Tools and Skills
 +---------------+-------------------------------------------------------------------------------+ 
 | Dev Teams     |https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code| 
 +---------------+-------------------------------------------------------------------------------+           
-| Distributed Sytems     https://www.cncf.io/about/charter/                                     | 
+| Dist Sytems   |        https://www.cncf.io/about/charter/                                     | 
 +---------------+-------------------------------------------------------------------------------+
