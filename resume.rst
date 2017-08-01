@@ -46,7 +46,7 @@ Full Stack Engineer/ AWS Architect at Fast Retailing				 					(August 2015 - Jan
    + Coordinated Cross functional communication within FR Infrastructure and Development team as one of the lead Architects
    
 - Developed Restful APIs using AWS services and NodeJS with Restify Framework
-- Created PoC Image processing using NodeJS (AWS Lambda) and then architected development team after for full blown devleopment with Code Reviews and DevOps role
+- Created PoC Image processing using NodeJS (AWS Lambda) and then architected development team after for full blown development with Code Reviews and DevOps role
 - Worked with Graphql and React PoC and used it in production with development team
 - Managed CMS and Webapp both using reactjs as a base and integration using DevOps Philosophy with CICD Pipelines as best practice 
 - Architected Infrastructure and Application end to end development of microservices. Started the shift to domain driven development with the lead architect
