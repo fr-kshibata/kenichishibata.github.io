@@ -27,12 +27,15 @@ Experience
 DevOps/Cloud Engineer at Simplex Technology Inc.											(January 2017 - Present)
 --------------------------------------------------------------------------------------------------------------------
 
-- Successfully introduced Gitlab CE to dev workflow (CICD Pipelines, Source Codes)
+- Successfully introduced Gitlab CE to dev workflow (CICD Pipelines, Source Codes, Pages)
 - Managed, negotiated and implemented feedhandlers with Financial Data Brokers
 - Developed APIs using Python for interfacing with Numerical Data with High Complexity
 - Introduced OpenLDAP as the best practice for authentication and authorization for internal development tools
 - Succesfully Managed AWS Cloud automation tools like Packer, Terraform, Boto3, 
 - Worked with the team effectively and successfully completed PoCs for Japanese megabanks (Mizuho, SMBC - Nikko, Bank of Tokyo Mitsubishi UFJ)
+- Effectively implemented Infrastructure and Application layer automation tools using bash and python scripts
+- Successfully implemented Golden AMI as best practice when launching new EC2 instances integrated with open ldap in AWS
+- Developed Documentation infrastructure using static site generators Hugo and sphinx
 
 Full Stack Engineer/ AWS Architect at Fast Retailing				 					(August 2015 - January 2017)
 --------------------------------------------------------------------------------------------------------------------
@@ -41,9 +44,13 @@ Full Stack Engineer/ AWS Architect at Fast Retailing				 					(August 2015 - Jan
    + Global Ecommerce Development Webapp, Rollout, Architecture and cross region distribution (UNIQLO)
    + Ecommerce project management and release engineering
    + Coordinated Cross functional communication within FR Infrastructure and Development team as one of the lead Architects
-
+   
 - Developed Restful APIs using AWS services and NodeJS with Restify Framework
 - Created PoC Image processing using NodeJS (AWS Lambda) and then architected development team after for full blown devleopment with Code Reviews and DevOps role
+- Worked with Graphql and React PoC and used it in production with development team
+- Managed CMS and Webapp both using reactjs as a base and integration using DevOps Philosophy with CICD Pipelines as best practice 
+- Architected Infrastructure and Application end to end development of microservices. Started the shift to domain driven development with the lead architect
+- Work with Infrastructure as a code (Terraform, DCOS, Mesos, Docker, Ansible) for setting up development environment 
 
 Education
 ===================================================================================================================
@@ -63,8 +70,8 @@ Development Tools and Skills
 - Front End Development: React JS, HTML5, CSS3, Jade(Pug), ExtJS, Material UI, Bootstrap, React Native
 - Databases: MongoDB, DynamoDB, MySQL, InfluxDB 
 - Architecture: Distributed Cloud Native Architecture, Chaos Engineering as Best Practice
-- Documentation: Confluence, Restructured Text, Markdown, Gitlab Pages, Github Pages, Hugo, Gollum
-- Evagelism: GRAPHQL Advocate, NodeJS Evangelist, Python Evangelist
+- Documentation: Confluence, Restructured Text, Markdown, Gitlab Pages, Github Pages, Hugo, Gollum, Pandoc, Sphinx
+- Evangelism: GRAPHQL Advocate, NodeJS Evangelist, Python Evangelist
 
 +-----------------------------------------------------------------------------------------------+ 
 | Guiding Principles                                                                            |
