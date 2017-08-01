@@ -35,6 +35,7 @@ DevOps/Cloud Engineer at Simplex Technology Inc.											(January 2017 - Prese
 - Worked with the team effectively and successfully completed PoCs for Japanese megabanks (Mizuho, SMBC - Nikko, Bank of Tokyo Mitsubishi UFJ)
 - Effectively implemented Infrastructure and Application layer automation tools using bash and python scripts
 - Successfully implemented Golden AMI as best practice when launching new EC2 instances integrated with open ldap in AWS
+- Developed Documentation infrastructure using static site generators Hugo and sphinx
 
 Full Stack Engineer/ AWS Architect at Fast Retailing				 					(August 2015 - January 2017)
 --------------------------------------------------------------------------------------------------------------------
