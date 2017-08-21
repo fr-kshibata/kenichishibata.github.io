@@ -2,7 +2,7 @@ Kenichi Shibata
 ===========================================
 Cloud Native Architect/Developer
 
-- **contact email:** kenichi.shibata3123@gmail.com
+- **contact email:** kenichi-shibata@outlook.com
 
 - **contact no:** +819083305813
 
